@@ -2,13 +2,13 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: Sri Harsha
   middle:
-  last: Doe
+  last: Koppella
 about: Hi, my name is John Doe. I"m just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+position: Development & Delivery, UI Engineering.
 
 birth:
   year: 1990
@@ -17,82 +17,97 @@ birth:
 # you may add more experiences by duplicating the template
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: Oracle
+  position: Consulting Member Of Technical Staff
+  timeperiod: September 2020 - Present
+  description: Leading the delivery of  user interface for Logging Analytics SaaS on Oracle Cloud Infrastructure
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Anuta Networks
+  position: Technical Leader
+  timeperiod: May 2017 - September 2020
+  description: 
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
+- company: Progress Software
+  position: Principal Software Engineer
+  timeperiod: June 2007 - April 2017
   description: Making coffee and baking cookies.
 
-education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+#education:
+#- degree: Master of Arts
+#  timeperiod: March 2012 - December 2013
+#  description: Major in Hacking and Computer Penetration, University A, New York, USA.
+#  website: https://example.com
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+#- degree: Bachelor of Science
+#  timeperiod: March 2009 - December 2011
+#  description: Major in Engineering, University B, Los Angeles, USA.
 
 # skill level goes from 0 to 100
 skills:
-- name: HTML5
+- name: Javascript
   level: 99
-- name: CSS3
+- name: Angular
   level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
+- name: Oracle JET
+  level: 95
 - name: TypeScript
+  level: 97
+- name: jQuery
+  level: 93
+- name: Knockout
+  level: 95
+- name: RequireJs
+  level: 95
+- name: Kendo
+  level: 60
+- name: HTML5
   level: 80
-- name: ES.Next
+- name: CSS3
   level: 70
-- name: Docker
+- name: SCSS
+  level: 99
+- name: Core Java
+  level: 99
+- name: REST/SOAP
   level: 99
 knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 
-projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+devtools:
+- name: GIT
+  level: 99
+- name: SVN
+  level: 95
+- name: IntelliJ
+  level: 97
+- name: VSCode
+  level: 93
+- name: Eclipse
+  level: 60
+- name: Jira
+  level: 80
+- name: Tomcat
+  level: 70
+- name: Ant
+  level: 99
+- name: Maven
+  level: 99
+- name: TeamCity
+  level: 99
+- name: Jenkins
+  level: 99
 
-# optional, not all resume templates have hobbies included
-hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
-
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
-
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+#projects:
+#- name: best-resume-ever
+#  platform: Vue
+#  timeperiod: February 2016
+#  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+#  url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: sriharshak@gmail.com
+  phone: +91 9885352252
+  linkedin: https://linkedin.com/in/sriharshak1
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
